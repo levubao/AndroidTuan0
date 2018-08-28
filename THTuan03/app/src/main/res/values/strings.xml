@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">THTuan03</string>
+    <string name="MaNV">Vui nhap thong tin nhan vien</string>
+    <string name="NhapNV">Nhap Nhan Vien</string>
+</resources>
